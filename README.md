@@ -29,7 +29,7 @@ To run the project locally, follow these steps:
 
 **1. Clone the Repository:**  
   
-git clone https://github.com/Joaoalmeidavt/mortgage-calculator.git  
+git clone https://github.com/Joaoalmeidavt/mortgage-calculator-react.git  
 
 
 **2. Navigate to the Project Directory:**
